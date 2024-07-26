@@ -1,7 +1,5 @@
 #### Maintainer and Significant Contributor
 
-These I didn't write my self but maintained at some point in the past.
-
 * [Pacu](https://github.com/RhinoSecurityLabs/pacu) -- The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 * [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) -- CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 * [sous-chefs/varnish](https://github.com/sous-chefs/varnish) -- Chef Development repository for the varnish cookbook
@@ -16,11 +14,8 @@ These I didn't write my self but maintained at some point in the past.
 * [EC2FakeImds](https://github.com/RyanJarv/EC2FakeImds) -- Spoofing IMDS for nodes in a VPC. PoC based on https://blog.ryanjarv.sh/2020/10/19/imds-persistence.html
 * [cli-hijacker](https://github.com/RyanJarv/cli-hijacker) -- Fork of aws-vault for the cli-hijacker PoC.
 * [RhinoSecurityLabs/amazon-ssm-agent](https://github.com/RhinoSecurityLabs/amazon-ssm-agent) -- Fork of amazon-ssm-agent that can run as any user in parallel with the official service.
-  * This is a rewrite of UserDataSwap which solves some issues that came up in practice.
 
-#### Other
-
-Some expirments, smaller projects, or personal projects which haven't been documented yet.
+#### Other Side Projects
 
 * [msh](https://github.com/RyanJarv/msh) -- Multivac Shell
 * [nettomidi](https://github.com/RyanJarv/nettomidi) -- Net -> MIDI (Listen to your network!)
