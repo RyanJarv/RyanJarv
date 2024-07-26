@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Maintainer and Significant Contributor
+#### Maintainer and Significant Contributor
 
 These I didn't write my self but maintained at some point in the past.
 
@@ -8,7 +6,7 @@ These I didn't write my self but maintained at some point in the past.
 * [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) -- CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 * [sous-chefs/varnish](https://github.com/sous-chefs/varnish) -- Chef Development repository for the varnish cookbook
 
-## Personal Projects
+#### Personal Projects
 * [liquidswards](https://github.com/RyanJarv/liquidswards) -- Know, don't guess, who can access what (IAM Roles).
 * [cdn-proxy](https://github.com/RyanJarv/cdn-proxy] -- Bypass CDN and WAF restrictions using CDN re-fronting.
 * [dsnap](https://github.com/RhinoSecurityLabs/dsnap) -- Utility for downloading and mounting EBS snapshots using the EBS Direct API's
@@ -20,7 +18,7 @@ These I didn't write my self but maintained at some point in the past.
 * [RhinoSecurityLabs/amazon-ssm-agent](https://github.com/RhinoSecurityLabs/amazon-ssm-agent) -- Fork of amazon-ssm-agent that can run as any user in parallel with the official service.
   * This is a rewrite of UserDataSwap which solves some issues that came up in practice.
 
-## Other
+#### Other
 
 Some expirments, smaller projects, or personal projects which haven't been documented yet.
 
