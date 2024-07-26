@@ -1,9 +1,3 @@
-#### Maintainer and Significant Contributor
-
-* [Pacu](https://github.com/RhinoSecurityLabs/pacu) -- The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) -- CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
-* [sous-chefs/varnish](https://github.com/sous-chefs/varnish) -- Chef Development repository for the varnish cookbook
-
 #### Personal Projects
 * [liquidswards](https://github.com/RyanJarv/liquidswards) -- Know, don't guess, who can access what (IAM Roles).
 * [cdn-proxy](https://github.com/RyanJarv/cdn-proxy] -- Bypass CDN and WAF restrictions using CDN re-fronting.
@@ -14,6 +8,12 @@
 * [EC2FakeImds](https://github.com/RyanJarv/EC2FakeImds) -- Spoofing IMDS for nodes in a VPC. PoC based on https://blog.ryanjarv.sh/2020/10/19/imds-persistence.html
 * [cli-hijacker](https://github.com/RyanJarv/cli-hijacker) -- Fork of aws-vault for the cli-hijacker PoC.
 * [RhinoSecurityLabs/amazon-ssm-agent](https://github.com/RhinoSecurityLabs/amazon-ssm-agent) -- Fork of amazon-ssm-agent that can run as any user in parallel with the official service.
+
+#### Previous Maintainer and Significant Contributor
+
+* [Pacu](https://github.com/RhinoSecurityLabs/pacu) -- The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) -- CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+* [sous-chefs/varnish](https://github.com/sous-chefs/varnish) -- Chef Development repository for the varnish cookbook
 
 #### Other Side Projects
 
