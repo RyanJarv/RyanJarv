@@ -1,6 +1,6 @@
 #### Personal Projects
 * [liquidswards](https://github.com/RyanJarv/liquidswards) -- Know, don't guess, who can access what (IAM Roles).
-* [cdn-proxy](https://github.com/RyanJarv/cdn-proxy] -- Bypass CDN and WAF restrictions using CDN re-fronting.
+* [cdn-proxy](https://github.com/RyanJarv/cdn-proxy) -- Bypass CDN and WAF restrictions using CDN re-fronting.
 * [dsnap](https://github.com/RhinoSecurityLabs/dsnap) -- Utility for downloading and mounting EBS snapshots using the EBS Direct API's
 * [awesome-cloud-sec](https://github.com/RyanJarv/awesome-cloud-sec) -- Awesome list for cloud security related projects.
 * [marionette](https://github.com/RyanJarv/marionette) -- Active/Passive UserData swap PoC
