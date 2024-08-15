@@ -18,6 +18,7 @@
 
 #### Other Side Projects
 
+* [Pacu2](https://github.com/RyanJarv/Pacu2) and [pacu3](https://github.com/RyanJarv/pacu3) -- Early expirimental rewrites of pacu
 * [msh](https://github.com/RyanJarv/msh) -- Multivac Shell
 * [nettomidi](https://github.com/RyanJarv/nettomidi) -- Net -> MIDI (Listen to your network!)
 * [pingscan](https://github.com/RyanJarv/pingscan/blob/master/pingscan.py) -- Messing around with sockets
