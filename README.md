@@ -1,6 +1,7 @@
 #### Personal and Open-Source Work Projects
 * [liquidswards](https://github.com/RyanJarv/liquidswards) -- Know, don't guess, who can access what (IAM Roles).
 * [cdn-proxy](https://github.com/RyanJarv/cdn-proxy) -- Bypass CDN and WAF restrictions using CDN re-fronting.
+* [msh](https://github.com/RyanJarv/msh) -- Multivac Shell
 * [little-stitch](https://github.com/RhinoSecurityLabs/little-stitch) -- Send and receive bypassing Little Snitch alerting.
 * [dsnap](https://github.com/RhinoSecurityLabs/dsnap) -- Utility for downloading and mounting EBS snapshots using the EBS Direct API's
 * [awesome-cloud-sec](https://github.com/RyanJarv/awesome-cloud-sec) -- Awesome list for cloud security related projects.
@@ -19,7 +20,6 @@
 #### Other Side Projects
 
 * [Pacu2](https://github.com/RyanJarv/Pacu2) and [pacu3](https://github.com/RyanJarv/pacu3) -- Early expirimental rewrites of pacu
-* [msh](https://github.com/RyanJarv/msh) -- Multivac Shell
 * [nettomidi](https://github.com/RyanJarv/nettomidi) -- Net -> MIDI (Listen to your network!)
 * [pingscan](https://github.com/RyanJarv/pingscan/blob/master/pingscan.py) -- Messing around with sockets
 * [steampipe_alchemy](https://github.com/RyanJarv/steampipe_alchemy) -- SQLAlchemy wrapper around Steampipe.
