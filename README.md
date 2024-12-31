@@ -1,4 +1,5 @@
 #### Personal and Open-Source Work Projects
+* [assume-role-id] -- RaaS (Roles as a Service) web app.
 * [liquidswards](https://github.com/RyanJarv/liquidswards) -- Know, don't guess, who can access what (IAM Roles).
 * [cdn-proxy](https://github.com/RyanJarv/cdn-proxy) -- Bypass CDN and WAF restrictions using CDN re-fronting.
 * [msh](https://github.com/RyanJarv/msh) -- Multivac Shell
