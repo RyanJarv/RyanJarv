@@ -4,7 +4,7 @@
 * [cdn-proxy](https://github.com/RyanJarv/cdn-proxy) -- Bypass CDN and WAF restrictions using CDN re-fronting.
 * [msh](https://github.com/RyanJarv/msh) -- Multivac Shell
 * [bug-bounty-pipeline](https://github.com/RyanJarv/bug-bounty-pipeline) -- Work in-progress e2e bug bounty pipeline
-* [roles](https://github.com/RyanJarv/roles) -- Unauthenticated enumerations of AWS IAM Roles.
+* [roles](https://github.com/RyanJarv/roles) -- Unauthenticated enumeration of AWS IAM Roles.
 * [yxks](https://github.com/RyanJarv/yxks) -- Basic implementation of the AWS XKS server to mess around with.
 * [little-stitch](https://github.com/RhinoSecurityLabs/little-stitch) -- Send and receive bypassing Little Snitch alerting.
 * [dsnap](https://github.com/RhinoSecurityLabs/dsnap) -- Utility for downloading and mounting EBS snapshots using the EBS Direct API's
