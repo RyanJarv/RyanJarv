@@ -1,4 +1,6 @@
 #### Personal and Open-Source Work Projects
+* [awsbak](https://github.com/RyanJarv/awsbak) -- Export your AWS account (work in progress).
+* [ais-vs-humans](https://github.com/RyanJarv/ai-vs-humans) -- Who's winning?
 * [assume-role-id](https://github.com/RyanJarv/assume-role-id/tree/main) -- RaaS (Roles as a Service) web app.
 * [liquidswards](https://github.com/RyanJarv/liquidswards) -- Know, don't guess, who can access what (IAM Roles).
 * [cdn-proxy](https://github.com/RyanJarv/cdn-proxy) -- Bypass CDN and WAF restrictions using CDN re-fronting.
