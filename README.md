@@ -1,4 +1,5 @@
 #### Personal and Open-Source Work Projects
+* [ydk](https://github.com/RyanJarv/ydk) -- Keep project work aligned with its purpose
 * [awsbak](https://github.com/RyanJarv/awsbak) -- Export your AWS account (work in progress).
 * [ais-vs-humans](https://github.com/RyanJarv/ai-vs-humans) -- Who's winning?
 * [assume-role-id](https://github.com/RyanJarv/assume-role-id/tree/main) -- RaaS (Roles as a Service) web app.
